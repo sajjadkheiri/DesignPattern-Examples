@@ -1,0 +1,15 @@
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\bin\Debug\net8.0\DesignPattern.Observer.exe
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\bin\Debug\net8.0\DesignPattern.Observer.deps.json
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\bin\Debug\net8.0\DesignPattern.Observer.runtimeconfig.json
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\bin\Debug\net8.0\DesignPattern.Observer.dll
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\bin\Debug\net8.0\DesignPattern.Observer.pdb
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\DesignPattern.Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\DesignPattern.Observer.AssemblyInfoInputs.cache
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\DesignPattern.Observer.AssemblyInfo.cs
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\DesignPattern.Observer.csproj.CoreCompileInputs.cache
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\DesignPattern.Observer.sourcelink.json
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\DesignPattern.Observer.dll
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\refint\DesignPattern.Observer.dll
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\DesignPattern.Observer.pdb
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\DesignPattern.Observer.genruntimeconfig.cache
+D:\Repo\sajjadkheiri\DesignPattern-Examples\DesignPattern.Observer\obj\Debug\net8.0\ref\DesignPattern.Observer.dll
